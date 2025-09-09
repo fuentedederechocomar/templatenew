@@ -29,10 +29,15 @@ title = 'inicio'
     url = "/novedades/"
     weight = 4
   [[menu.main]]
+   identifier = "Categorias"
+   name = "Categorías"
+   pageRef = "categories"
+   weight = 5  
+  [[menu.main]]
     identifier = "Etiquetas"
     name = "Etiquetas"
     pageRef = "tags"
-    weight = 5
+    weight = 6
 
 [params]
   description = "Fuente De Derecho"
