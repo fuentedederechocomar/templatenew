@@ -3,12 +3,7 @@ languageCode = 'es-ar'
 title = 'inicio'
 
 [menu]
-  [[menu.main]]
-    pageRef = "search"
-    weight = -100
-    [menu.main.params]
-      type = "search"
-  [[menu.main]]
+ [[menu.main]]
     identifier = "Ley"
     name = "Ley"
     url = "/ley/"
@@ -23,6 +18,12 @@ title = 'inicio'
     name = "Doctrina"
     url = "/doctrina/"
     weight = 3
+  [[menu.main]]
+    pageRef = "search"
+    weight = -100
+    [menu.main.params]
+      type = "search"
+ 
   [[menu.main]]
     identifier = "Novedades"
     name = "Novedades"
