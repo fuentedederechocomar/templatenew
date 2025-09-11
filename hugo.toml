@@ -35,7 +35,7 @@ title = 'inicio'
    weight = 5  
   [[menu.main]]
     identifier = "Etiquetas"
-    name = "Etiquetas"
+    name = "Voces"    # Antes era name = "Etiquetas"
     pageRef = "tags"
     weight = 6
 
@@ -48,8 +48,12 @@ title = 'inicio'
 
 [taxonomies]
   category = "categories"
+  categorias = "categories"
+  categoria = "categories"
   tag = "tags"
+  eqiqueta = "tags"
   author = "authors"
+  voces = "voces" # Agrego 11/9/2025
 
 [module]
   [[module.imports]]
