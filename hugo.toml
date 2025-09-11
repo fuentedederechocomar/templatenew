@@ -20,7 +20,7 @@ title = 'inicio'
     weight = 3
   [[menu.main]]
     pageRef = "search"
-    weight = -100
+    weight = 4
     [menu.main.params]
       type = "search"
  
@@ -28,17 +28,17 @@ title = 'inicio'
     identifier = "Novedades"
     name = "Novedades"
     url = "/novedades/"
-    weight = 4
+    weight = 5
   [[menu.main]]
    identifier = "Categorias"
    name = "Categorías"
    pageRef = "categories"
-   weight = 5  
+   weight = 6 
   [[menu.main]]
     identifier = "Etiquetas"
     name = "Voces"    # Antes era name = "Etiquetas"
     pageRef = "tags"
-    weight = 6
+    weight = 7
 
 [params]
   description = "Fuente De Derecho"
