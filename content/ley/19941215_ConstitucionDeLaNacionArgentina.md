@@ -1,6 +1,16 @@
 ---
 title: "Constitución de la Nación Argentina"
 date: 1994-12-15
+sumario: "Texto oficial de la Constitución Nacional Argentina, actualizado con las reformas del año 1994"
+tipo: "ley"
+categoria: "Constitución"
+materia: "Derecho Constitucional"
+jurisdiccion: "Argentina"
+organismo: "Convención Constituyente"
+tema: " "
+voces: ["declaraciones", "derechos", "garantías", "nuevos derechos", "autoridades", "sanción de las leyes"]
+facts:" "
+draft: false
 ---
 
 ![Sigue Ley](https://img.shields.io/badge/Sección-Ley-Grey)
@@ -583,6 +593,7 @@ DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS QUINC
 ```  
  
   
+
 
 
 
