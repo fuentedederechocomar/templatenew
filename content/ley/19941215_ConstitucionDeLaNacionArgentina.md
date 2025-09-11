@@ -9,7 +9,7 @@ jurisdiccion: "Argentina"
 organismo: "Convención Constituyente"
 tema: " "
 voces: ["declaraciones", "derechos", "garantías", "nuevos derechos", "autoridades", "sanción de las leyes"]
-facts:" "
+facts: " "
 draft: false
 ---
 
@@ -593,6 +593,7 @@ DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS QUINC
 ```  
  
   
+
 
 
 
