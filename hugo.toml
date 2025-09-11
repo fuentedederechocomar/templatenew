@@ -29,10 +29,10 @@ title = 'inicio'
     url = "/novedades/"
     weight = 4
   [[menu.main]]
-   identifier = "Categorias"
-   name = "Categorías"
-   pageRef = "categories"
-   weight = 5  
+    identifier = "Categorias"
+    name = "Categorías"
+    pageRef = "categories"
+    weight = 5
   [[menu.main]]
     identifier = "Etiquetas"
     name = "Etiquetas"
@@ -50,7 +50,14 @@ title = 'inicio'
   category = "categories"
   tag = "tags"
   author = "authors"
+  tipo = "tipos"
+  categoria = "categorias"
+  materia = "materias"
+  jurisdiccion = "jurisdicciones"
+  organismo = "organismos"
+  tema = "temas"
+  fact = "facts"
 
 [module]
   [[module.imports]]
-    path = "github.com/imfing/hextra" 
+    path = "github.com/imfing/hextra"
